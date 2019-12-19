@@ -9,8 +9,6 @@
 
 #include "Lung_Names.h"
 
-
-
             // TODO Tokeneater
 
 namespace tkn {
@@ -153,5 +151,7 @@ void Dump_Tree (node_t *head);
 void Dump_Tree_img (node_t *head);
 
 //void Dump_Tree_Tex (node_t *head, char *name_file = nullptr);
+
+#include "BasedFunc.h"
 
 #endif //DIFFERENTIATOR_TEMPHEAD_H

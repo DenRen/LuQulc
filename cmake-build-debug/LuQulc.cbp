@@ -90,10 +90,13 @@
 		<Unit filename="/home/tester/CLionProjects/SandBoxQ/MyLib3.h">
 			<Option target="LuQulc"/>
 		</Unit>
-		<Unit filename="/home/tester/Documents/GitHub/LuQulc/Translate.cpp">
+		<Unit filename="/home/tester/Documents/GitHub/LuQulc/BasedFunc.cpp">
 			<Option target="LuQulc"/>
 		</Unit>
-		<Unit filename="/home/tester/Documents/GitHub/LuQulc/Translate.h">
+		<Unit filename="/home/tester/Documents/GitHub/LuQulc/BasedFunc.h">
+			<Option target="LuQulc"/>
+		</Unit>
+		<Unit filename="/home/tester/Documents/GitHub/LuQulc/Translate.cpp">
 			<Option target="LuQulc"/>
 		</Unit>
 		<Unit filename="/home/tester/Documents/GitHub/LuQulc/TreeLung.cpp">
