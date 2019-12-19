@@ -1,0 +1,17 @@
+#include "Qulc.h"
+
+int main () { 
+	qRAM_t *_qRAM = new qRAM_t (10);
+q0 = qBit_t (1, qRAM);
+	q1 = qBit_t (0, qRAM);
+	;
+	;
+	;
+	;
+	;
+	;
+	;
+	;
+	;
+	;
+	}
